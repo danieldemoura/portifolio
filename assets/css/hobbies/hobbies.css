@@ -1,9 +1,0 @@
-.hobbies {
-    padding: 0 2rem 5.4rem;
-}
-
-@media screen and (min-width: 1024px) {
-    .hobbies {
-        height: 100vh;
-    }
-}
