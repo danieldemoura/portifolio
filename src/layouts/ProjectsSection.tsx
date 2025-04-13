@@ -9,7 +9,7 @@ import { CardProject } from "@/components/CardProject";
 export function ProjectsSection() {
   return (
     <section
-      className="container mx-auto flex flex-col bg-[url(./bg-project.svg)] bg-size-[92rem] bg-fixed bg-position-[97%_20%] bg-no-repeat px-5 pb-32 lg:grid lg:grid-cols-12 lg:bg-top lg:pt-15"
+      className="container mx-auto flex flex-col bg-[url(/bg-project.svg)] bg-size-[92rem] bg-fixed bg-position-[97%_20%] bg-no-repeat px-5 pb-32 lg:grid lg:grid-cols-12 lg:bg-top lg:pt-15"
       id="projetos"
     >
       <header className="order-2 lg:col-span-5">

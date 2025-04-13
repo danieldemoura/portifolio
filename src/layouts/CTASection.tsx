@@ -4,7 +4,7 @@ import { WhatsappSVG } from "@/components/svgs/WhatsappSVG";
 
 export function CTASection() {
   return (
-    <section className="bg-purple-600/20 bg-[url(./bg-cta.svg)] bg-fixed px-5 py-12 lg:py-36">
+    <section className="bg-purple-600/20 bg-[url(/bg-cta.svg)] bg-fixed px-5 py-12 lg:py-36">
       <header className="space-y-6">
         <h2 className="font-display text-center text-[2.125rem] text-white lg:text-6xl">
           Vamos trabalhar juntos?
