@@ -12,7 +12,7 @@ export function AboutSection() {
   return (
     <section
       id="sobremim"
-      className="bg-linear-30 bg-[url(./bg-about.svg),url(./bg-about.png)] bg-no-repeat bg-cover pt-2.5 bg-fixed"
+      className="bg-linear-30 bg-[url(/bg-about.svg),url(/bg-about.png)] bg-no-repeat bg-cover pt-2.5 bg-fixed"
     >
       <div className="container mx-auto mt-11 space-y-28 px-5 pb-[5.5rem] xl:grid xl:grid-cols-12 xl:justify-items-center">
         <div className="mx-auto max-w-[19rem] space-y-14 xl:col-span-2 xl:space-y-10">

@@ -1,6 +1,6 @@
 export function Header() {
   return (
-    <header className="min-h-screen bg-[url(./bg-header.svg)] bg-auto bg-fixed bg-center bg-no-repeat px-5 xl:bg-size-[106%]">
+    <header className="min-h-screen bg-[url(/bg-header.svg)] bg-auto bg-fixed bg-center bg-no-repeat px-5 xl:bg-size-[106%]">
       <div className="container mx-auto flex min-h-[103vh] flex-col pt-8 pb-13">
         <ul className="font-body mx-auto flex max-w-[25.5rem] justify-center gap-8 rounded-full border border-gray-700 bg-white/5 px-[2.875rem] py-6 font-medium text-slate-300 shadow-[0px_4px_30px_1px_rgba(0,0,0,0.4)] backdrop-blur-sm">
           <li>
