@@ -1,9 +1,0 @@
-.menu {
-    display: flex;
-    border-bottom: 1px solid var(--border-menu);
-    height: 5rem;
-    justify-content: space-between;
-    padding: 1.5rem 2.5rem;
-    position: relative;
-}
-
