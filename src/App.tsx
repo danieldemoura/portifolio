@@ -8,7 +8,7 @@ export function App() {
   return (
     <>
       <Header />
-      <main>
+      <main className="relative z-10 bg-slate-950">
         <AboutSection />
         <ProjectsSection />
         <CTASection />
