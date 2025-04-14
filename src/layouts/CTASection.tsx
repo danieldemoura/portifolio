@@ -17,7 +17,7 @@ export function CTASection() {
       </header>
       <div className="mt-9 flex flex-col gap-6 lg:flex-row lg:justify-center lg:gap-11">
         <a
-          className="font-body flex items-center justify-center gap-3.5 rounded-[0.5rem] border border-yellow-700 bg-yellow-400 px-4 py-2 text-center text-xl font-semibold text-black transition duration-300 hover:bg-black/30 hover:text-white"
+          className="font-body flex items-center justify-center gap-3.5 rounded-[0.5rem] border border-yellow-700 bg-yellow-400 px-4 py-2 text-center text-xl font-semibold text-black transition duration-300 hover:bg-yellow-700 hover:text-white"
           href="https://www.linkedin.com/in/danieldms/"
           target="_blank"
         >
@@ -25,14 +25,14 @@ export function CTASection() {
           <span>Linkedin</span>
         </a>
         <a
-          className="font-body h flex items-center justify-center gap-3.5 rounded-[0.5rem] border border-yellow-700 bg-yellow-400 px-4 py-2 text-center text-xl font-semibold text-black transition duration-300 hover:bg-black/30 hover:text-white"
+          className="font-body h flex items-center justify-center gap-3.5 rounded-[0.5rem] border border-yellow-700 bg-yellow-400 px-4 py-2 text-center text-xl font-semibold text-black transition duration-300 hover:bg-yellow-700 hover:text-white"
           href=""
         >
           <EmailSVG className="w-7" />
           <span>E-mail</span>
         </a>
         <a
-          className="font-body flex items-center justify-center gap-3.5 rounded-[0.5rem] border border-yellow-700 bg-yellow-400 px-4 py-2 text-center text-xl font-semibold text-black transition duration-300 hover:bg-black/30 hover:text-white"
+          className="font-body flex items-center justify-center gap-3.5 rounded-[0.5rem] border border-yellow-700 bg-yellow-400 px-4 py-2 text-center text-xl font-semibold text-black transition duration-300 hover:bg-yellow-700 hover:text-white"
           href="https://api.whatsapp.com/send?phone=11990131215"
           target="_blank"
         >

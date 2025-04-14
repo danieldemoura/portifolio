@@ -30,10 +30,10 @@ export function ProjectsSection() {
           meu cuidado e a atenção aos detalhes na experiência do usuário.
         </p>
       </div>
-      <div className="order-3 mt-16 space-y-18 text-white lg:col-span-12 lg:grid lg:grid-cols-3 lg:gap-16 lg:space-y-0">
+      <div className="order-3 mt-16 grid justify-items-center gap-10 text-white sm:grid-cols-2 lg:col-span-12 lg:gap-16 xl:grid-cols-3">
         <CardProject
           photo={photo1}
-          title="Dongflix - 2022"
+          title="Dongflix"
           icons={[
             { img: js, title: "javascript" },
             { img: react, title: "ReactJS" },
@@ -44,7 +44,7 @@ export function ProjectsSection() {
 
         <CardProject
           photo={photo2}
-          title="Learning Target - 2023"
+          title="Learning Target"
           icons={[
             { img: js, title: "javascript" },
             { img: figma, title: "Figma" },
@@ -54,7 +54,7 @@ export function ProjectsSection() {
 
         <CardProject
           photo={photo3}
-          title="Otaku China - 2023"
+          title="Otaku China"
           icons={[{ img: js, title: "javascript" }]}
           url="https://github.com/danieldemoura/challange-one-sprint-03"
         />
